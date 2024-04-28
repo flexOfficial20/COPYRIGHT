@@ -76,16 +76,16 @@ async def start(_, msg):
 
 gd_buttons = [              
         [
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/THE_FRIENDZ"),    
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/FleX_Bots_News"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Flex_Support_Chat"),    
         ]
         ]
 # ------------------------------------------------------------------------------- #
 
 ROY_BTN = [              
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),    
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Flex_Support_Chat"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/FleX_Bots_News"),    
         ]
 ]
 # ------------------------------------------------------------------------------- #
@@ -160,8 +160,8 @@ REPO_STRING = """**
 async def start(_, msg):
     REPO_BTN = [
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/tinaarobot/COPYRIGHT"),
+          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Flex_Support_Chat"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://t.me/+XmPd-pFHRGljYjY1"),
           ],
     ]
     
